@@ -7,7 +7,7 @@ A simple FastAPI application for managing students, courses, and enrollments.
 - **Students**: Create, read, update, and delete student records
 - **Courses**: Manage course information
 - **Enrollments**: Handle student enrollments in courses with validation
-- **SQLite Database**: Simple file-based database for easy development
+- **Postgressql Database**: Simple file-based database for easy development
 - **Automatic API Documentation**: Swagger UI and ReDoc available
 
 ## Quick Start
@@ -82,7 +82,7 @@ A simple FastAPI application for managing students, courses, and enrollments.
 
 ## Database
 
-The application uses SQLite for simplicity. The database file (`student_management.db`) will be created automatically when you first run the application.
+The application uses Postgressql. The database file (`student_management.db`) will be created automatically when you first run the application.
 
 ## Project Structure
 

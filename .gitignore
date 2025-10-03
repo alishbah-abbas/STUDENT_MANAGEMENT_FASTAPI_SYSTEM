@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# Database
+*.db
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Alembic
+alembic/versions/
+
+# Frontend
+frontend/node_modules/
+
+# Logs
+*.log
+
+# Others
+*.bak
+*.swp
