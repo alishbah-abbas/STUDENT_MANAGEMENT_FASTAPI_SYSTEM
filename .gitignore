@@ -19,11 +19,6 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Alembic
-alembic/versions/
-
-# Frontend
-frontend/node_modules/
 
 # Logs
 *.log
